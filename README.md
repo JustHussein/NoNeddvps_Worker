@@ -23,11 +23,3 @@ https://www.uuidtools.com/v4
 
 
 
-
-
-
-منبع آی پی تمیز
-https://ircf.space/list.php
-
-https://github.com/vfarid/cf-clean-ips/blob/main/list.txt
-
